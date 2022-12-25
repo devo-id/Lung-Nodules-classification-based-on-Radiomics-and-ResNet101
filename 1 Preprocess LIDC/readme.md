@@ -1,3 +1,4 @@
+### lidc2dicom.py
 This program will parse the DICOM and XML data for LIDC subject specified and generate DICOM representation for the segmentations and evaluations of the segmented nodule.
 
 
