@@ -1,0 +1,8 @@
+pathlib 
+lidc_conversion_utils
+subprocess
+pylidc 
+numpy
+glob
+logging
+decimal
