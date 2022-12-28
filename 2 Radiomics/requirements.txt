@@ -1,0 +1,7 @@
+numpy
+six
+SimpleITK
+scipy
+pandas 
+radiomics
+glob

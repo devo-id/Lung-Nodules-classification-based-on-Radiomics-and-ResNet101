@@ -3,7 +3,7 @@ This program will parse the DICOM and XML data for LIDC subject specified and ge
 
 
 ### Requirements
-All requirements are given in ```requirements.txt```\
+All requirements are given in ```requirements.txt```
 
 **pylidc** looks in your home folder for a configuration file called, .pylidcrc on Mac and Linux, or pylidc.conf on Windows. 
 
@@ -43,7 +43,12 @@ options:
 run the batch.py file and specify the range for the number of subjects.
 ```
 
-### Output
+### Input
 ```
 This script will create result folder (Which we will use for later use, named as Data folder) having equivalent image and its segmentations in NRRD format.
+```
+
+### Output
+```
+This script will create result folder (Which we will use for later use, named as 0 Data folder) having equivalent image and its segmentations in NRRD format.
 ```
