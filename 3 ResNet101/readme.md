@@ -27,5 +27,5 @@ CroppedImageData Folder
 
 ### Output
 ```
-This Program will calculate the features of the data and saving them in ResnetFeatures.csv
+Feature will get saved in ResnetFeatures.csv
 ```
