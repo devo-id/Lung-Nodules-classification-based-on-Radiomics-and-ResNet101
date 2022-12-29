@@ -1,15 +1,7 @@
 
 ## svm_combine.ipynb
-In this program we are doing fine tuning of the ResNet101 model on a different Dataset.
-
-
-### Input
-
-[Dataset drive link](https://drive.google.com/drive/folders/1oOYr63ObhmSXgWZNETH3PaKhCFnT6nyM?usp=sharing)
-
-
-
-### Output
-```
-Finally, we are saving  (fineTuneResNet101.h5) the tuned model for later use. 
-```
+This program shows the result for combined (ResNet and Radiomics) features.
+## svm_radiomics.ipynb
+This program shows the result for Radiomics features.
+## svm_Resnet.ipynb
+This program shows the result for ResNet101 features.
