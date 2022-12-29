@@ -24,7 +24,7 @@ and many more in requirements.txt in all folders
 https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
 * Images (DICOM,)
 * DICOM Metadata Digest (CSV)
-* Nodule Size List http://www.via.cornell.edu/lidc/list3.2.csv
+* Nodule Size List
 
 **Readme files holds the links for the datasets**
 
