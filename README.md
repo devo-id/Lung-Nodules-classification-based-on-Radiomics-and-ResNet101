@@ -1,4 +1,4 @@
-# Automated Detection and Classification of Nodules in Lung CT scans
+# Lung Nodules classification based on Radiomics and ResNet101 features
 ## Description
 Lung cancer is the second most common cancer in both men and women that afflicts 225,500 people a year in the United States. Nearly 1 out of 4 cancer deaths are from lung cancer, more than colon, breast, and prostate cancers combined. Early detection of the cancer can allow for early treatment which significantly increases the chances of survival. 
 This project creates an algorithm that automatically detects candidate nodules and predicts the probability that the lung will be diagnosed with cancer within 1 year of the CT scans. This project aims to 
@@ -25,7 +25,8 @@ https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
 * Images (DICOM,)
 * DICOM Metadata Digest (CSV)
 * Nodule Size List http://www.via.cornell.edu/lidc/list3.2.csv
-* Readme files holds the links for the datasets.
+
+**Readme files holds the links for the datasets**
 
 
 
@@ -77,7 +78,7 @@ Refer respective readme file for better understanding
 
 
 
-### Reference
+## Reference
 
 [
 Artificial intelligence in cancer imaging: Clinical challenges and applications
