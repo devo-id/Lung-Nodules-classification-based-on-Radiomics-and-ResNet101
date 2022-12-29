@@ -20,9 +20,8 @@ This project creates an algorithm that automatically detects candidate nodules a
 and many more in requirements.txt in all folders
 
 ### Required Data
-**LIDC-IDRI dataset**
-https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
-* Images (DICOM,)
+[**LIDC-IDRI dataset**](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI)
+* Images and their segmentations (DICOM)
 * DICOM Metadata Digest (CSV)
 * Nodule Size List
 
@@ -71,11 +70,6 @@ Refer respective readme file for better understanding
 | Radiomics | 86.21% |
 | ResNet101 | 70.69% |
 | Features combined | 89.66% |
-
-
-
-
-
 
 
 ## Reference
