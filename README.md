@@ -4,8 +4,10 @@ Lung cancer is the second most common cancer in both men and women that afflicts
 This project creates an algorithm that automatically detects candidate nodules and predicts the probability that the lung will be diagnosed with cancer within 1 year of the CT scans. This project aims to 
 * Extracting quantitative, radiomics features from lung CT 3D images. 
 * Extracting features of same data by fine-tuning a pre-trained deep CNN model (ResNet101).
-* To train machine learning classification model to verify the performance based on extracted features separately and also by concatenating these features for the classification of Lung Cancer.
-* Analysis of the respective results.
+* Training a machine learning model using the extracted features to classify lung cancer.
+* Concatenating the Radiomics and deep CNN features and analyzing the performance of the classification model.
+* Carefully analyzing the results of the classification model to determine the most effective feature extraction method.
+
 
 
 
